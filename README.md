@@ -78,14 +78,8 @@ This creates an interactive and personalized learning experience for students.
 
 ## 🪜 Steps to Use Smart Campus Assistant
 
-### Step 1: Start the Application
+### Start the Application
 - Open the project folder
 - Run the main Python file using:
 ```bash
 python app.py
----
-
-### Step 2: Upload Study Material
-   -Click on the Upload PDF / Notes option
-   -Select a lecture PDF or text-based notes
-   -The system accepts the file and begins processing
