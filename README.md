@@ -83,3 +83,11 @@ This creates an interactive and personalized learning experience for students.
 - Run the main Python file using:
 ```bash
 python app.py
+
+---
+## 📌 Note
+Before running the application, make sure to install the required dependencies by executing:
+
+```bash
+npm install
+
