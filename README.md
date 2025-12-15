@@ -85,9 +85,9 @@ This creates an interactive and personalized learning experience for students.
 python app.py
 
 ---
-## 📌 Note
+📌 Note
+
 Before running the application, make sure to install the required dependencies by executing:
 
-```bash
 npm install
 
