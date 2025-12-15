@@ -82,7 +82,8 @@ This creates an interactive and personalized learning experience for students.
 - Open the project folder
 - Run the main Python file using:
 ```bash
-python app.py
+python app.py```bash
+
 ### Step 2: Upload Study Material
    -Click on the Upload PDF / Notes option
    -Select a lecture PDF or text-based notes
